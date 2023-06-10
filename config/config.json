@@ -3,21 +3,21 @@
     "username": "postgres",
     "password": "ctEZkNnwSUU7sxyqlpYJ",
     "database": "simplenote",
-    "host": "http://simplenote.cnvaeci0cfwi.ap-southeast-2.rds.amazonaws.com/",
+    "host": "simplenote.cnvaeci0cfwi.ap-southeast-2.rds.amazonaws.com",
     "dialect": "postgres"
   },
   "test": {
     "username": "postgres",
     "password": "ctEZkNnwSUU7sxyqlpYJ",
     "database": "simplenote",
-    "host": "http://simplenote.cnvaeci0cfwi.ap-southeast-2.rds.amazonaws.com/",
+    "host": "simplenote.cnvaeci0cfwi.ap-southeast-2.rds.amazonaws.com",
     "dialect": "postgres"
   },
   "production": {
     "username": "postgres",
     "password": "ctEZkNnwSUU7sxyqlpYJ",
     "database": "simplenote",
-    "host": "http://simplenote.cnvaeci0cfwi.ap-southeast-2.rds.amazonaws.com/",
+    "host": "simplenote.cnvaeci0cfwi.ap-southeast-2.rds.amazonaws.com",
     "dialect": "postgres"
   }
 }
